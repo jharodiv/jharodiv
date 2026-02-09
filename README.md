@@ -1,5 +1,5 @@
 <h2>Hi there!</h2>
-<h3> I'm Jem Harold Centino, an aspirant Cloud Engineer</h3>
+<h3> I'm Jem Harold Centino, an aspirant Software Engineer</h3>
 
 - 👨‍💻 I’m looking to collaborate on building projects.
 - 📫 How to reach me [jharold.centino@gmail.com](jharold.centino@gmail.com)
