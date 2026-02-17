@@ -27,7 +27,7 @@
 
 ## Frameworks and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,nodejs,flutter,androidstudio,docker,mysql,postgres,unity,mongodb,figma,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,nodejs,flutter,androidstudio,docker,mysql,postgres,unity,mongodb,figma,laravel,django)](https://skillicons.dev)
 
 <hr/>
 
